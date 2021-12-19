@@ -20,5 +20,5 @@ Files
 | **payload/installer** | script contains any actions that you'd wish to be performed on the installation system, make directories, uncompress files, run system commands, etc. |
 | **payload/files.tar** | File that contains all your software files |
 
-This is the exact implementation from the [Linux Journal Article](https://www.linuxjournal.com/node/1005818). It has been usefule to me in the past
+This is the exact implementation from the [Linux Journal Article](https://www.linuxjournal.com/node/1005818). It has been useful to me in the past
 so I wanted to share it.

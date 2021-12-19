@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Running Installer"
+echo -n "Making directory ..."
+mkdir -p $HOME/files
+echo "done"
+echo -n "Extracting files ..."
+tar xf ./files.tar -C $HOME/files
+echo "done"
+echo "Installation complete!"
